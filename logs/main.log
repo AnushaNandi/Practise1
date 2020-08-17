@@ -1,0 +1,39 @@
+2020-08-16 16:44:04,390 -0500 [main] INFO  (BaseClass.java:22) - Opened browser
+2020-08-16 16:44:06,857 -0500 [main] INFO  (BaseClass.java:24) - AUT page is opened
+2020-08-16 17:08:24,690 -0500 [main] INFO  (BaseClass.java:22) - Opened browser
+2020-08-16 17:08:26,262 -0500 [main] INFO  (BaseClass.java:24) - AUT page is opened
+2020-08-16 17:10:52,864 -0500 [main] INFO  (BaseClass.java:22) - Opened browser
+2020-08-16 17:10:54,471 -0500 [main] INFO  (BaseClass.java:24) - AUT page is opened
+2020-08-16 17:10:57,135 -0500 [main] INFO  (TC001_Login.java:14) - Entered email id
+2020-08-16 17:10:57,212 -0500 [main] INFO  (TC001_Login.java:16) - Entered password
+2020-08-16 17:10:57,283 -0500 [main] INFO  (TC001_Login.java:18) - Clicked signin
+2020-08-16 17:11:57,750 -0500 [main] INFO  (BaseClass.java:22) - Opened browser
+2020-08-16 17:11:59,799 -0500 [main] INFO  (BaseClass.java:24) - AUT page is opened
+2020-08-16 17:12:02,753 -0500 [main] INFO  (TC001_Login.java:14) - Entered email id
+2020-08-16 17:12:02,832 -0500 [main] INFO  (TC001_Login.java:16) - Entered password
+2020-08-16 17:12:02,899 -0500 [main] INFO  (TC001_Login.java:18) - Clicked signin
+2020-08-16 17:12:05,515 -0500 [main] INFO  (BaseClass.java:35) - closed browser
+2020-08-16 20:15:04,224 -0500 [main] INFO  (BaseClass.java:26) - Opened browser
+2020-08-16 20:15:06,000 -0500 [main] INFO  (BaseClass.java:30) - AUT page is opened
+2020-08-16 20:15:08,641 -0500 [main] INFO  (TC001_LoginTest.java:15) - Entered email id
+2020-08-16 20:15:08,730 -0500 [main] INFO  (TC001_LoginTest.java:17) - Entered password
+2020-08-16 20:15:08,821 -0500 [main] INFO  (TC001_LoginTest.java:19) - Clicked signin
+2020-08-16 20:15:11,526 -0500 [main] INFO  (BaseClass.java:41) - closed browser
+2020-08-16 20:49:17,103 -0500 [main] INFO  (BaseClass.java:26) - Opened browser
+2020-08-16 20:49:18,760 -0500 [main] INFO  (BaseClass.java:30) - AUT page is opened
+2020-08-16 20:49:21,841 -0500 [main] INFO  (TC001_LoginTest.java:15) - Entered email id
+2020-08-16 20:49:21,929 -0500 [main] INFO  (TC001_LoginTest.java:17) - Entered password
+2020-08-16 20:49:22,006 -0500 [main] INFO  (TC001_LoginTest.java:19) - Clicked signin
+2020-08-16 20:49:24,690 -0500 [main] INFO  (BaseClass.java:41) - closed browser
+2020-08-16 20:50:22,168 -0500 [main] INFO  (BaseClass.java:26) - Opened browser
+2020-08-16 20:50:24,844 -0500 [main] INFO  (BaseClass.java:30) - AUT page is opened
+2020-08-16 20:50:27,509 -0500 [main] INFO  (TC001_LoginTest.java:15) - Entered email id
+2020-08-16 20:50:27,582 -0500 [main] INFO  (TC001_LoginTest.java:17) - Entered password
+2020-08-16 20:50:27,659 -0500 [main] INFO  (TC001_LoginTest.java:19) - Clicked signin
+2020-08-16 20:50:30,396 -0500 [main] INFO  (BaseClass.java:41) - closed browser
+2020-08-16 20:51:09,652 -0500 [main] INFO  (BaseClass.java:26) - Opened browser
+2020-08-16 20:51:11,102 -0500 [main] INFO  (BaseClass.java:30) - AUT page is opened
+2020-08-16 20:51:13,932 -0500 [main] INFO  (TC001_LoginTest.java:15) - Entered email id
+2020-08-16 20:51:14,009 -0500 [main] INFO  (TC001_LoginTest.java:17) - Entered password
+2020-08-16 20:51:14,087 -0500 [main] INFO  (TC001_LoginTest.java:19) - Clicked signin
+2020-08-16 20:51:16,810 -0500 [main] INFO  (BaseClass.java:41) - closed browser
